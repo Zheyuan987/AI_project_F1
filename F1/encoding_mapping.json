@@ -1,0 +1,57 @@
+{
+  "compound_mapping": {
+    "SOFT": 0,
+    "MEDIUM": 1,
+    "HARD": 2,
+    "INTERMEDIATE": 3,
+    "WET": 4
+  },
+  "one_hot_columns": {
+    "Race": [
+      "Abu Dhabi Grand Prix",
+      "Australian Grand Prix",
+      "Austrian Grand Prix",
+      "Azerbaijan Grand Prix",
+      "Bahrain Grand Prix",
+      "Belgian Grand Prix",
+      "British Grand Prix",
+      "Canadian Grand Prix",
+      "Chinese Grand Prix",
+      "Dutch Grand Prix",
+      "Emilia Romagna Grand Prix",
+      "French Grand Prix",
+      "Hungarian Grand Prix",
+      "Italian Grand Prix",
+      "Japanese Grand Prix",
+      "Las Vegas Grand Prix",
+      "Mexico City Grand Prix",
+      "Miami Grand Prix",
+      "Monaco Grand Prix",
+      "Pre-Season Testing",
+      "Qatar Grand Prix",
+      "Saudi Arabian Grand Prix",
+      "Singapore Grand Prix",
+      "Spanish Grand Prix",
+      "São Paulo Grand Prix",
+      "United States Grand Prix"
+    ]
+  },
+  "dropped_columns": [
+    "Driver"
+  ],
+  "note": {
+    "Driver": "not used",
+    "Compound_encoded": "SOFT=0, MEDIUM=1, HARD=2, INTERMEDIATE=3, WET=4",
+    "Race": "one-hot encoded",
+    "sample_submission.csv": "not required by this preprocessing script"
+  },
+  "feature_count": 44,
+  "processed_train_shape": [
+    439140,
+    46
+  ],
+  "processed_test_shape": [
+    188165,
+    45
+  ]
+}
