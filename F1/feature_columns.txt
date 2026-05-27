@@ -1,1 +1,44 @@
-
+Year
+PitStop
+LapNumber
+Stint
+TyreLife
+Position
+LapTime (s)
+LapTime_Delta
+Cumulative_Degradation
+RaceProgress
+Position_Change
+Compound_encoded
+Race_Abu Dhabi Grand Prix
+Race_Australian Grand Prix
+Race_Austrian Grand Prix
+Race_Azerbaijan Grand Prix
+Race_Bahrain Grand Prix
+Race_Belgian Grand Prix
+Race_British Grand Prix
+Race_Canadian Grand Prix
+Race_Chinese Grand Prix
+Race_Dutch Grand Prix
+Race_Emilia Romagna Grand Prix
+Race_French Grand Prix
+Race_Hungarian Grand Prix
+Race_Italian Grand Prix
+Race_Japanese Grand Prix
+Race_Las Vegas Grand Prix
+Race_Mexico City Grand Prix
+Race_Miami Grand Prix
+Race_Monaco Grand Prix
+Race_Pre-Season Testing
+Race_Qatar Grand Prix
+Race_Saudi Arabian Grand Prix
+Race_Singapore Grand Prix
+Race_Spanish Grand Prix
+Race_São Paulo Grand Prix
+Race_United States Grand Prix
+TyreLife_x_LapNumber
+TyreLife_div_LapNumber
+Position_x_LapNumber
+TyreLife_div_Stint
+TyreLife_x_RaceProgress
+LapTime_plus_Delta
